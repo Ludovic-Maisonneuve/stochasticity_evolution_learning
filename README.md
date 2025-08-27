@@ -1,7 +1,7 @@
 Programs for the Preprint Article: 
 "How does stochasticity in learning impact the accumulation of knowledge and the evolution of learning?" 
 Authors: Ludovic Maisonneuve, Laurent Lehmann 
-DOI: XX.XX
+DOI: https://doi.org/10.1101/2025.08.26.672373
 
 This repository contains scripts and data used to generate the figures and results presented in the above preprint. The project combines evolutionary analyses (in Mathematica) with individual-based simulations (in Python) to study how stochasticity influences the evolution of learning strategies.
 
